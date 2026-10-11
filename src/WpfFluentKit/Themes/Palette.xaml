@@ -1,0 +1,13 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Color x:Key="KitAccentColor">#FF6677EE</Color>
+  <SolidColorBrush x:Key="KitAccentBrush" Color="{DynamicResource KitAccentColor}" />
+  <SolidColorBrush x:Key="KitBackgroundBrush" Color="#FF101218" />
+  <SolidColorBrush x:Key="KitSurfaceBrush" Color="#FF191C24" />
+  <SolidColorBrush x:Key="KitSurfaceHoverBrush" Color="#FF252937" />
+  <SolidColorBrush x:Key="KitTextBrush" Color="#FFF5F7FC" />
+  <SolidColorBrush x:Key="KitSecondaryTextBrush" Color="#FF9EA7B9" />
+  <SolidColorBrush x:Key="KitBorderBrush" Color="#FF343949" />
+  <CornerRadius x:Key="KitCardRadius">12</CornerRadius>
+  <CornerRadius x:Key="KitControlRadius">8</CornerRadius>
+  <Thickness x:Key="KitPagePadding">28</Thickness>
+</ResourceDictionary>
